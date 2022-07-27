@@ -1,4 +1,4 @@
-# Plenary August, 2022-08-04
+# 2022 AGM & August Plenary, 2022-08-04
 
 ## Agenda
 
