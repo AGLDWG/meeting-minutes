@@ -1,4 +1,4 @@
-# Plenary June, 2021-08-04
+# Plenary August, 2022-08-04
 
 ## Agenda
 
