@@ -34,6 +34,8 @@
     4. National Address Model Candidate - Nicholas Car (ANU)
     5. RDF-Start implementation - Armin Haller (ANU)
     6. Department of Finance's New Data Aspirations - John Machin (Finance)
+    7. ARDC Vocabularies - Rowna Brownlee (ARDC)
+    8. Biodiversity Data Repository - Mieke Strong (Gaia Resources)
 #### 3. AGM closes
 
 ### August Monthly Plenary
