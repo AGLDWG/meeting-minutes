@@ -28,11 +28,12 @@
 2. Election of office holders
     1. Co-chairs
 3. Linked Data project presentations
-    1. Geoscience Australia Digital Atlas FSDF Datasets - Irina Bastrakova
-    2. Indigenous Data Network - Sandra Silcot
-    3. National Address Model Candidate - Nicholas Car
-    4. RDF-Start implementation - Armin Haller
-    5. Department of Finance's New Data Aspirations - John Machin
+    1. Geoscience Australia Digital Atlas FSDF Datasets - Irina Bastrakova (GA)
+    2. FutureSOILS - Sergio Rodriguez (ANU)
+    3. Indigenous Data Network - Sandra Silcot (IDN)
+    4. National Address Model Candidate - Nicholas Car (ANU)
+    5. RDF-Start implementation - Armin Haller (ANU)
+    6. Department of Finance's New Data Aspirations - John Machin (Finance)
 #### 3. AGM closes
 
 ### August Monthly Plenary
