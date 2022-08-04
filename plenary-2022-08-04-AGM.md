@@ -23,6 +23,9 @@
 ### AGM
 
 #### 1. Attendees and Apologies
+
+Apologies: Len Smith, Bernadette, Rowan
+
 #### 2. AGM
 1. Reminder of the Terms of Reference (ToR) and PID Domain Memorandum of Understanding (MoU)
 2. Election of office holders
@@ -40,18 +43,28 @@
 
 ### August Monthly Plenary
 
-**Chair**:  
-**Notes**:  
+**Chair**: Nicholas Car  
+**Notes**: Nicholas Car  
 
 #### 1. Previous minutes
 * See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2022-07-07.md>
 
 #### 2. Welcoming and introduction to new members
 
+* Jarrod Lange
+* Bruce @ Service Australia
+* Catherine Rayner - APSC
+
 #### 3. Follow-up on previous meeting's Action Items
+
+None.
 
 #### 4. General business 
 
+A discussion was had about the next versions of the WG's MoU & ToR, detail so which have been circulated to the mailing list. It is hoped that these next versions will be able to be voted into effect at the next Monthly Meeting - September.
+
 #### 5. Next meeting details
+
+First Thursday of September.
 
 #### 6. Monthly Plenary closes
