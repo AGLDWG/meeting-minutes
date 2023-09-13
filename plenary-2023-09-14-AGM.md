@@ -44,11 +44,11 @@ Apologies:
 
 #### 2. Welcoming and introduction to new members
 
-#### 3. Follow-up on previous meeting's Action Items
-
+#### 3. Follow-up on previous meeting's Action Item
 AGM actions completed.
 
 #### 4. General business 
+1. Attendees asked to note the circulation of ARDCs National PID Strategy flyer and to please consider engaging with this initiative. <https://ardc.edu.au/project/australian-national-persistent-identifier-pid-strategy-and-roadmap/>
 
 
 
