@@ -40,7 +40,8 @@ Nicholas Car
        * Unanimous vote recorded for Nicholas & John to continue as co-chairs
     3. John Machin & Nicholas Car are happy to re-nominate for co-chair
 4. Linked Data project showcase
-  
+    * presentations given as per PowerPoint slides within the repository containing these minutes
+
 #### 3. AGM closes
 
 ### August Monthly Plenary
