@@ -24,7 +24,9 @@
 
 #### 1. Attendees and Apologies
 
-Apologies: 
+Attendees: Nicholas Car, Richard Walker, John Machin, Natasha Simons, Stephen Pratt, Amanda Norton, Margie Smith, Michael Henry, Jia Rungsong, Edmond Chuc, Terhi Nurmikko-Fuller, Jamie Feiss, Andrew McLeod, Jay Dominick, Bowen Zhang, Joseph Bell, Junrong Yu, Bryan Lessard, Lyle Winton, Richard Hazelton, Rowan Brownlee, Sergio Mendez, Sophie Darnell
+
+Apologies: Nataliya Katsman, Mieke Strong, Matt Duckham
 
 #### 2. AGM
 1. Reminder of the Terms of Reference (ToR) and PID Domain Memorandum of Understanding (MoU)
