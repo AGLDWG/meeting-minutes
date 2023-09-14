@@ -24,15 +24,20 @@
 
 #### 1. Attendees and Apologies
 
-Attendees: Nicholas Car, Richard Walker, John Machin, Natasha Simons, Stephen Pratt, Amanda Norton, Margie Smith, Michael Henry, Jia Rungsong, Edmond Chuc, Terhi Nurmikko-Fuller, Jamie Feiss, Andrew McLeod, Jay Dominick, Bowen Zhang, Joseph Bell, Junrong Yu, Bryan Lessard, Lyle Winton, Richard Hazelton, Rowan Brownlee, Sergio Mendez, Sophie Darnell
+Attendees: Nicholas Car, Richard Walker, John Machin, Natasha Simons, Stephen Pratt, Amanda Norton, Margie Smith, Michael Henry, Jia Rungsong, Edmond Chuc, Terhi Nurmikko-Fuller, Jamie Feiss, Andrew McLeod, Jay Dominick, Bowen Zhang, Joseph Bell, Junrong Yu, Bryan Lessard, Lyle Winton, Richard Hazelton, Rowan Brownlee, Sergio Mendez, Sophie Darnell, Michael Rigby, Jess Moore
 
-Apologies: Nataliya Katsman, Mieke Strong, Matt Duckham
+Apologies: Nataliya Katsman, Mieke Strong, Matt Duckham, Armin Haller
 
 #### 2. AGM
 1. Reminder of the Terms of Reference (ToR) and PID Domain Memorandum of Understanding (MoU)
-2. Election of office holders
+   * Nicholas Car explained that DCCEEW is likely to provide APS entity legal review of the MoU/ToR shortly, being arranged by him & Michael Rigby 
+3. Election of office holders
     1. Co-chairs
-3. Linked Data project showcase
+       * John Machin proposes Nicholas & John as co-chairs
+       * Margie Smith seconds
+       * Unanimous vote recorded for Nicholas & John to continue as co-chairs
+    3. John Machin & Nicholas Car are happy to re-nominate for co-chair
+4. Linked Data project showcase
   
 #### 3. AGM closes
 
