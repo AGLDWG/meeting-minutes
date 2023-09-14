@@ -20,13 +20,15 @@
 
 ## Minutes
 
+Nicholas Car
+
 ### AGM
 
 #### 1. Attendees and Apologies
 
-Attendees: Nicholas Car, Richard Walker, John Machin, Natasha Simons, Stephen Pratt, Amanda Norton, Margie Smith, Michael Henry, Jia Rungsong, Edmond Chuc, Terhi Nurmikko-Fuller, Jamie Feiss, Andrew McLeod, Jay Dominick, Bowen Zhang, Joseph Bell, Junrong Yu, Bryan Lessard, Lyle Winton, Richard Hazelton, Rowan Brownlee, Sergio Mendez, Sophie Darnell, Michael Rigby, Jess Moore
+**Attendees**: Nicholas Car, Richard Walker, John Machin, Natasha Simons, Stephen Pratt, Amanda Norton, Margie Smith, Michael Henry, Jia Rungsong, Edmond Chuc, Terhi Nurmikko-Fuller, Jamie Feiss, Andrew McLeod, Jay Dominick, Bowen Zhang, Joseph Bell, Junrong Yu, Bryan Lessard, Lyle Winton, Richard Hazelton, Rowan Brownlee, Sergio Mendez, Sophie Darnell, Michael Rigby, Jess Moore
 
-Apologies: Nataliya Katsman, Mieke Strong, Matt Duckham, Armin Haller
+**Apologies**: Nataliya Katsman, Mieke Strong, Matt Duckham, Armin Haller
 
 #### 2. AGM
 1. Reminder of the Terms of Reference (ToR) and PID Domain Memorandum of Understanding (MoU)
@@ -43,8 +45,8 @@ Apologies: Nataliya Katsman, Mieke Strong, Matt Duckham, Armin Haller
 
 ### August Monthly Plenary
 
-**Chair**:  
-**Notes**:  
+**Chair**:  John Machin
+**Notes**:  Nicholas Car
 
 #### 1. Previous minutes
 * See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2023-08-03.md>
