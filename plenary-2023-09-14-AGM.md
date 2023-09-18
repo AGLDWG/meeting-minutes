@@ -26,9 +26,9 @@ Nicholas Car
 
 #### 1. Attendees and Apologies
 
-**Attendees**: Nicholas Car, Richard Walker, John Machin, Natasha Simons, Stephen Pratt, Amanda Norton, Margie Smith, Michael Henry, Jia Rungsong, Edmond Chuc, Terhi Nurmikko-Fuller, Jamie Feiss, Andrew McLeod, Jay Dominick, Bowen Zhang, Joseph Bell, Junrong Yu, Bryan Lessard, Lyle Winton, Richard Hazelton, Rowan Brownlee, Sergio Mendez, Sophie Darnell, Michael Rigby, Jess Moore
+**Attendees**: Amanda Norton; Andrew Fitzgerald; Andrew Macleod; Andrew MacLeod; Bowen Zhang; Bryan Lessard; Edmond Chuc; Jamie Feiss; Jay Dominick; Jess Moore; John Machin; Joseph Bell; Junrong Yu; Lyle Winton; Madhushi Bandara; Margie Smith; Michael Henry; Michael Hodgkin; Michael Rigby; Natasha Simons; Nicholas Car; Renato Iannella; Richard Hazelton; Richard Walker; Rowan Brownlee; Runsong Jia; Sergio Rodriguez Mendez; Sophie Darnell; Stephen Bowman; Stephen Pratt; Terhi Nurmikko-Fuller; Tom Cook.
 
-**Apologies**: Nataliya Katsman, Mieke Strong, Matt Duckham, Armin Haller
+**Apologies**: Armin Haller; Matt Duckham; Mieke Strong; Nataliya Katsman.
 
 #### 2. AGM
 1. Reminder of the Terms of Reference (ToR) and PID Domain Memorandum of Understanding (MoU)
@@ -41,6 +41,8 @@ Nicholas Car
     3. John Machin & Nicholas Car are happy to re-nominate for co-chair
 4. Linked Data project showcase
     * presentations given as per PowerPoint slides within the repository containing these minutes
+    * [slides on GovTEAMS](https://govteams.sharepoint.com/:p:/s/agldwg/EasU8WF-yftMrFrlhICZnNoBcrdwmTxVQdoYTGaYU9JgUA?e=2xzulW)
+    * [recording on GovTEAMS](https://govteams.sharepoint.com/:v:/s/agldwg/EcEb7szQkIhJu3m1wLHSYY8B0UrmidMRayiEHxmFsZZgDg?e=Clfubc)
 
 #### 3. AGM closes
 
@@ -58,12 +60,9 @@ Nicholas Car
 AGM actions completed.
 
 #### 4. General business 
-1. Attendees asked to note the circulation of ARDCs National PID Strategy flyer and to please consider engaging with this initiative. <https://ardc.edu.au/project/australian-national-persistent-identifier-pid-strategy-and-roadmap/>
-
-
+1. Attendees asked to note the circulation of ARDCs National PID Strategy flyer and to please consider engaging with this initiative. <https://ardc.edu.au/project/australian-national-persistent-identifier-pid-strategy-and-roadmap/> [Flyer on GovTEAMS](https://govteams.sharepoint.com/:b:/s/agldwg/ET3-WpepWsNPv4rD15gOWkIB4PrPqaIwHUdRxO7Rcv2mCA?e=hEdTvs)
 
 #### 5. Next meeting details
-
-
+Next plenary session on Thursday 5th October 2023.
 
 #### 6. Monthly Plenary closes
