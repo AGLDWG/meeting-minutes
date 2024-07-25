@@ -1,5 +1,9 @@
 # 2024 AGM & August Plenary - 2024-08-01
 
+## in-person meet-up locations
+(please add location and contact person)
+*
+
 ## Agenda
 
 1. Attendees and Apologies
