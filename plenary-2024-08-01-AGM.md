@@ -5,8 +5,9 @@
 1. Attendees and Apologies
 2. AGM
     1. Reminder of the Terms of Reference (ToR) and PID Domain Memorandum of Understanding (MoU)
-    2. Election of office holders
-    3. Linked Data project showcase
+       * See <https://github.com/AGLDWG/docs>
+    3. Election of co-chairs
+    4. Linked Data project showcase
 3. AGM closes
 
 ### Monthly Plenary
