@@ -2,7 +2,6 @@
 
 ## In-person meet-up locations
 (please add location and contact person)
-    *
 
 ## Agenda
 
