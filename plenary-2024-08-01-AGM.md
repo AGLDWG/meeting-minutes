@@ -1,7 +1,8 @@
 # 2024 AGM & August Plenary - 2024-08-01
 
 ## In-person meet-up locations
-(please add location and contact person)
+### Australian Capital Territory
+One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
 
 ## Agenda
 
