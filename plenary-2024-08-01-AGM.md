@@ -33,10 +33,11 @@ One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
 * Manju Soni
 * Sam
 * Tran
-* Andrew Lawrence
+* Andrew Fitzgerald
 * David Habgood
 * Rowan Brownlee
 * John Machin
+* Michael Henry
 
 ##### 3. AGM
 ##### 4. AGM closes
@@ -49,3 +50,10 @@ One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
 4. General business 
 5. Next meeting details
 6. Monthly Plenary closes
+
+#### Minutes
+
+##### 4. General business 
+
+* Alasdair Paton: reminds the group of GovHack - the largest government data hackathon
+
