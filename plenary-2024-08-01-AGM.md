@@ -14,6 +14,33 @@ One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
     4. Linked Data project showcase
 3. AGM closes
 
+#### Minutes
+
+##### 1. Attendees and Apologies
+* Nicholas Car
+* Prudence Lawrence
+* Margie Smith
+* Lawson Lewis
+* Rob Chatterjee
+* Ashley Sommer
+* Bryan Gan
+* Les Kneebone
+* Kathryn Nolan
+* David McMeekin
+* Paul Duchesne
+* Matt Duckham
+* Pete Dupen
+* Manju Soni
+* Sam
+* Tran
+* Andrew Lawrence
+* David Habgood
+* Rowan Brownlee
+* John Machin
+
+##### 3. AGM
+##### 4. AGM closes
+
 ### Monthly Plenary
 1. Previous minutes
     * See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2024-07-04.md>
