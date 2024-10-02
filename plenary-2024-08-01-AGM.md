@@ -38,6 +38,7 @@ One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
 * Rowan Brownlee
 * John Machin
 * Michael Henry
+* Alastair Paton
 
 ##### 3. AGM
 ##### 4. AGM closes
