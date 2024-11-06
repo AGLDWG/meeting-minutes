@@ -48,7 +48,7 @@ One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
     * See <https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2024-07-04.md>
 2. Welcoming and introduction to new members
 3. Follow-up on previous meeting's Action Items
-4. General business 
+4. General business
 5. Next meeting details
 6. Monthly Plenary closes
 
@@ -56,5 +56,5 @@ One Canberra Avenue, Forrest; Andrew Fitzgerald; meet in the foyer.
 
 ##### 4. General business 
 
-* Alasdair Paton: reminds the group of GovHack - the largest government data hackathon
+* Alastair Paton: reminds the group of GovHack - the largest government data hackathon
 
