@@ -16,38 +16,38 @@
 
 ### 1. Attendees and Apologies
 
-Attendees: Alastair Paton
-Alex J
-Andrew Fitzgerald
-Ashley Sommer
-Clayton...
-Edmond
-Haoting Chen
-Heather Brindley
-Javier Sanchez Gonzalez
-Jess Moore
-John Machin
-Joshua Thomson
-Junrong Yu
-Les Kneebone
-Lucy Arrowsmith
-Margie Smith
-Matt Duckham
-Melinda Hodkiewicz
-Michael B. Norton
-Michael Henry
-Mieke Strong
-Nicholas Car
-Pete Dupen
-Phill O'Connor
-Quinten Van der Leest
-Runsong Jia
-Sergio Rodriguez Mendez
-Simon Cox
-Siobhann McCafferty
-Steve Brown
-Terhi Nurmikko-Fuller
-Ty Grupel
+Attendees: Alastair Paton, 
+Alex J, 
+Andrew Fitzgerald, 
+Ashley Sommer, 
+Clayton..., 
+Edmond Chuc, 
+Haoting Chen, 
+Heather Brindley, 
+Javier Sanchez Gonzalez, 
+Jess Moore, 
+John Machin, 
+Joshua Thomson, 
+Junrong Yu, 
+Les Kneebone, 
+Lucy Arrowsmith, 
+Margie Smith, 
+Matt Duckham, 
+Melinda Hodkiewicz, 
+Michael B. Norton, 
+Michael Henry, 
+Mieke Strong, 
+Nicholas Car, 
+Pete Dupen, 
+Phill O'Connor, 
+Quinten Van der Leest, 
+Runsong Jia, 
+Sergio Rodriguez Mendez, 
+Simon Cox, 
+Siobhann McCafferty, 
+Steve Brown, 
+Terhi Nurmikko-Fuller, 
+Ty Grupel, 
 Vincent Fazio
 
 Apologies: Dan Brough, 
