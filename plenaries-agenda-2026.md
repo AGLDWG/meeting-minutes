@@ -35,8 +35,8 @@ Speaker, slots 1 & 2 - Flores Bakker: "LD at Dutch ministery of Finance"
 
 ## Thu 1 Oct 2026
 
-Slot 1: 
-Slot 2: 
+Slot 1:  
+Slot 2:  
 
 ## Thu 5 Nov 2026
 
@@ -45,9 +45,5 @@ Slot 2:
 
 ## Thu 3 Dec 2026
 
-Slot 1: 
-Slot 2: 
-
-Thu 3 Feb 2027
-Slot 1: 
-Slot 2: 
+Slot 1:  
+Slot 2:  
