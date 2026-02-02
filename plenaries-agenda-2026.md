@@ -40,8 +40,8 @@ Slot 2:
 
 ## Thu 5 Nov 2026
 
-Slot 1: 
-Slot 2: 
+Slot 1:  
+Slot 2:  
 
 ## Thu 3 Dec 2026
 
