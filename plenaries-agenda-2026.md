@@ -8,7 +8,6 @@ Speaker, slots 1 & 2: Jesse Wright: Perceptions of LD sentiment in Aust v. the U
 
 Speaker, slots 1 & 2: Professor Matt Duckham: Spatial Linked Data
 
-
 ## Thu 2 Apr 2026
 
 Speaker, slots 1 & 2 - Harley Thomas: “UNTP and related LD work”
@@ -47,3 +46,14 @@ Slot 2:
 
 Slot 1:  
 Slot 2:  
+
+
+# Additional Meetings
+
+## Thu 19 Mar 2026
+
+Special session on Verifiable Credentials - 4+ presenters
+
+## Thu 21 May 2026
+
+Special session on AI - 4+ presenters
