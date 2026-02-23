@@ -11,7 +11,9 @@ Speaker, slots 1 & 2 2: Professor Matt Duckham: Spatial Linked Data
 ## Thu 2 Apr 2026
 
 Speaker, slot 1 - Dr Jess Moore, ANU: "Private Data Sharing with Express Consent using Solid"  
-Speaker, slot 2 - Harley Thomas, TrustProvenance: "UNTP and related LD work"
+Speaker, slot 2, either:
+* Dr Anushka Vidanage, ANU: "Trust No One environment on Solid"
+* Harley Thomas, TrustProvenance: "UNTP and related LD work"
 
 ## Thu 7 May 2026
 
@@ -20,6 +22,8 @@ Speaker, slots 1 & 2 - Professor Eero Hyvönen: "TBA (cf. Sampo-UI framework, Pa
 ## Thu 4 Jun 2026
 
 Speaker, slots 1 & 2 - Alex Jouravlev, Business Abstraction Pty Ltd
+
+Potentially Dr Anushka Vidanage, ANU: "Trust No One environment on Solid" too.
 
 ## Thu 2 Jul 2026
 
