@@ -6,11 +6,12 @@ Speaker, slots 1 & 2: Jesse Wright: Perceptions of LD sentiment in Aust v. the U
 
 ## Thu 5 Mar 2026
 
-Speaker, slots 1 & 2: Professor Matt Duckham: Spatial Linked Data
+Speaker, slots 1 & 2 2: Professor Matt Duckham: Spatial Linked Data
 
 ## Thu 2 Apr 2026
 
-Speaker, slots 1 & 2 - Harley Thomas: “UNTP and related LD work”
+Speaker, slot 1 - Dr Jess Moore, ANU: "Private Data Sharing with Express Consent using Solid"
+Speaker, slot 2 - Harley Thomas, TrustProvenance: "UNTP and related LD work"
 
 ## Thu 7 May 2026
 
