@@ -19,7 +19,7 @@ Speaker, slots 1 & 2 - Professor Eero Hyvönen: "TBA (cf. Sampo-UI framework, Pa
 
 ## Thu 4 Jun 2026
 
-Speaker, slot 1 - Alex Jouravlev, Business Abstraction Pty Ltd
+Speaker, slot 1 - Alex Jouravlev, Business Abstraction Pty Ltd  
 Speaker, slot 1 - Dr Anushka Vidanage, ANU: "Trust No One environment on Solid" too.
 
 ## Thu 2 Jul 2026
