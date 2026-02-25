@@ -57,6 +57,8 @@ Slot 2:
 Special session on Verifiable Credentials - several presenters
 
 * Harley Thomas, TrustProvenance: "UNTP and related LD work"
+* Steve Capell, GoSource - Verifyable trade
+* John Philips - Verifiable business identity
 
 ## Thu 21 May 2026
 
