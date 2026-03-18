@@ -63,3 +63,15 @@ Special session on Verifiable Credentials - several presenters
 ## Thu 21 May 2026
 
 Special session on AI - several presenters
+
+## Thu 17 Sep 2026
+
+Special session on SHACL - several presenters
+
+* Nicholas Car - overview of the current SHACL 1.2 work program
+* Holger Knublauch (hopefully) - History of SHACL & SHACL Core
+* David Habgood - SHACL Rules
+* Edmond Chuc - SHACL UI
+* Nicholas Car - SHACL Profiling
+* Ashley Sommer (hopefully) - SHACL engine implementations
+
