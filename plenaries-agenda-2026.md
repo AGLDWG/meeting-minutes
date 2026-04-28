@@ -35,7 +35,7 @@ Speaker, slots 1 & 2 - Flores Bakker: "LD at Dutch ministery of Finance"
 
 ## Thu 1 Oct 2026
 
-Speaker slot 1:  Dr Jess Moore, ANU: "Private Data Sharing with Express Consent using Solid"
+Speaker slot 1:  Dr Jess Moore, ANU: "Private Data Sharing with Express Consent using Solid"  
 Speaker slot 2:  
 
 ## Thu 5 Nov 2026
