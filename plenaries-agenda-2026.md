@@ -40,13 +40,13 @@ Speaker slot 2:
 
 ## Thu 5 Nov 2026
 
-Slot 1:  
-Slot 2:  
+Speaker slot 1:  
+Speaker slot 2:  
 
 ## Thu 3 Dec 2026
 
-Slot 1:  
-Slot 2:  
+Speaker slot 1:  
+Speaker slot 2:  
 
 
 # Additional Meetings
@@ -68,9 +68,9 @@ Special session on AI - several presenters
 Special session on SHACL - several presenters
 
 * Nicholas Car - overview of the current SHACL 1.2 work program
-* Holger Knublauch (hopefully) - History of SHACL & SHACL Core
+* Holger Knublauch - History of SHACL & SHACL Core
 * David Habgood - SHACL Rules
 * Edmond Chuc - SHACL UI
 * Nicholas Car - SHACL Profiling
-* Ashley Sommer (hopefully) - SHACL engine implementations
+* Ashley Sommer - SHACL engine implementations
 
