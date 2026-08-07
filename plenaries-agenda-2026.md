@@ -33,9 +33,9 @@ AGM Linked Data Project Reports
 * Jamie Feiss - IDN Metadata Entry Tool
 * Nicholas Car - RDFLib & Family
 * Edmond Chuc - GeoSPARQL Implementation
-
+* Adib Rohani - Producing High-Quality Semantic Representations of ISO Geospatial Standards
+  
 <!--
-* Adib Rohani - TC-211 Harmonized Ontology
 * Melinda Hodkiewicz - Industrial Data Ontology
 * TERN
 * Alastair Paton
