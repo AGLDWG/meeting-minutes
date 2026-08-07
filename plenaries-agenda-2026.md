@@ -34,10 +34,10 @@ AGM Linked Data Project Reports
 * Nicholas Car - RDFLib & Family
 * Edmond Chuc - GeoSPARQL Implementation
 * Adib Rohani - Producing High-Quality Semantic Representations of ISO Geospatial Standards
-  
-<!--
-* Melinda Hodkiewicz - Industrial Data Ontology
+* Melinda Hodkiewicz - The Industrial Data Ontology and ISO Ontology-based interoperability for Industrial data standards: an overview
 * TERN
+
+<!--
 * Alastair Paton
 * Heidi Leow - Carapace
 -->
