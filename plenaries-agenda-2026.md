@@ -27,7 +27,20 @@ Speaker, slots 1 & 2 - Erwin Folmer: “Dutch Linked Data community”
 
 ## Thu 6 Aug 2026
 
-AGM Reports
+AGM Linked Data Project Reports
+
+* Les Kneebone - ATED
+* Jamie Feiss - IDN Metadata Entry Tool
+* Nicholas Car - RDFLib & Family
+* Edmond Chuc - GeoSPARQL Implementation
+
+<!--
+* Adib Rohani - TC-211 Harmonized Ontology
+* Melinda Hodkiewicz - Industrial Data Ontology
+* TERN
+* Alastair Paton
+* Heidi Leow - Carapace
+-->
 
 ## Thu 3 Sep 2026
 
