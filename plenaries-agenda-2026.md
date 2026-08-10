@@ -35,11 +35,12 @@ AGM Linked Data Project Reports
 * Edmond Chuc - GeoSPARQL Implementation
 * Adib Rohani - Producing High-Quality Semantic Representations of ISO Geospatial Standards
 * Melinda Hodkiewicz - The Industrial Data Ontology and ISO Ontology-based interoperability for Industrial data standards: an overview
-* TERN
+* Matt Duckham - Linked Data Road Networks
+* Heidi Leow - Carapace
 
 <!--
 * Alastair Paton
-* Heidi Leow - Carapace
+* Terhi
 -->
 
 ## Thu 3 Sep 2026
