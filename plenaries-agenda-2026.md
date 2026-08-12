@@ -37,6 +37,7 @@ AGM Linked Data Project Reports
 * Melinda Hodkiewicz - The Industrial Data Ontology and ISO Ontology-based interoperability for Industrial data standards: an overview
 * Matt Duckham - Linked Data Road Networks
 * Heidi Leow - Carapace
+* Alastair Paton - AGLDWG - Finance CA3 Project Peer Review
 
 <!--
 * Alastair Paton
