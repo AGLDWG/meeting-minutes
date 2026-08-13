@@ -44,7 +44,8 @@ Rob Atkinson
 Sergio Rodriguez Sanchez  
 Siddeswara Guru  
 Siobhann McCafferty  
-
+Adib Rohani  
+Grant White  
 
 ### 2. Previous minutes
 
