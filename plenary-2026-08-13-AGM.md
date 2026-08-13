@@ -62,12 +62,12 @@ Nominees to present their candidate statements
 
 John - wants to review governance arrangements  
 Andrew - work related to Linked Data standards in government  
-Alastair - promoting the WG to deciison makers, liising w  
-Nick 
+Alastair - promoting the WG to decision makers, liaison with related government projects
+Nick - maintain group memory, arrange presentations, update PID infrastructure
 
 #### Co-chair appointments
 
-By acclimation if a reasonable number or by voting
+The 4 nominees were elected by the WG by acclamation.
     
 ### 5. Project Presentations
 
