@@ -15,12 +15,35 @@
 
 ### 1. Attendees and Apologies
 
-Chair: Nicholas Car
+Chair: Nicholas Car  
 Scribe: Nicholas Car    
 
 Attendees: 
 
 Nicholas Car  
+John Machin  
+Andrew Fitzgerald  
+Alastair Paton  
+Terhi Nurmikko-Fuller  
+Matt Duckham  
+David Crosswell  
+Edmond Chuc  
+Heidi Leow  
+Javier Sanches Gonzalez  
+Joseph Guillaume  
+Junrong Yu  
+Les Kneebone  
+Malachy McGrath  
+Margie Smith  
+Jessica Matsumoto-Noack  
+Megan Wong  
+Mieke Strong  
+Melinda Hodkiewicz  
+Phillip D'Rozario  
+Rob Atkinson  
+Sergio Rodriguez Sanchez  
+Siddeswara Guru  
+Siobhann McCafferty  
 
 
 ### 2. Previous minutes
@@ -36,6 +59,11 @@ See https://github.com/AGLDWG/meeting-minutes/blob/master/plenary-2026-07-02.md
 #### Call for co-chair nominations
 
 Nominees to present their candidate statements 
+
+John - wants to review governance arrangements  
+Andrew - work related to Linked Data standards in government  
+Alastair - promoting the WG to deciison makers, liising w  
+Nick 
 
 #### Co-chair appointments
 
