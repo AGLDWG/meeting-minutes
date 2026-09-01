@@ -46,7 +46,7 @@ AGM Linked Data Project Reports
 
 ## Thu 3 Sep 2026
 
-Speaker, slots 1 & 2 - Flores Bakker: "LD at Dutch ministery of Finance"
+Speaker, slots 1 & 2 - Flores Bakker: "LD at Dutch Ministry of Finance"
 
 ## Thu 1 Oct 2026
 
