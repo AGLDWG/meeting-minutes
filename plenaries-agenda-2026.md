@@ -55,7 +55,7 @@ Speaker slot 2:  Dr Jakub Klímek: "The sad story of Czechia's government Linked
 
 ## Thu 5 Nov 2026
 
-Speaker slot 1:  
+Speaker slot 1: Renato Iannella - Open Data Rights Language  
 Speaker slot 2:  
 
 ## Thu 3 Dec 2026
