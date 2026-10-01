@@ -50,13 +50,13 @@ Speaker, slots 1 & 2 - Flores Bakker: "LD at Dutch Ministry of Finance"
 
 ## Thu 1 Oct 2026
 
-Speaker slot 1:  Dr Jess Moore, ANU: "Private Data Sharing with Express Consent using Solid"  
-Speaker slot 2:  Dr Jakub Klímek: "The sad story of Czechia's government Linked Data"
+Speaker slot 1:  Dr Jakub Klímek: "The sad story of Czechia's government Linked Data"
+Speaker slot 2:  Nicholas Car - The new AGLDWG PID Register system
 
 ## Thu 5 Nov 2026
 
 Speaker slot 1: Renato Iannella - Open Data Rights Language  
-Speaker slot 2:  
+Speaker slot 2: Dr Jess Moore, ANU: "Private Data Sharing with Express Consent using Solid"   
 
 ## Thu 3 Dec 2026
 
