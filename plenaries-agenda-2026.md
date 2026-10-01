@@ -50,7 +50,7 @@ Speaker, slots 1 & 2 - Flores Bakker: "LD at Dutch Ministry of Finance"
 
 ## Thu 1 Oct 2026
 
-Speaker slot 1:  Dr Jakub Klímek: "The sad story of Czechia's government Linked Data"
+Speaker slot 1:  Dr Jakub Klímek: "The sad story of Czechia's government Linked Data"  
 Speaker slot 2:  Nicholas Car - The new AGLDWG PID Register system
 
 ## Thu 5 Nov 2026
